@@ -5,30 +5,6 @@
       "client_ref": "RIOAC",
       "name": "AC Barra da Tijuca",
       "code": "ac_hotel_barra_da_tijuca"
-    },
-    {
-      "id": 2,
-      "client_ref": "RIOPM",
-      "name": "AC Porto Maravilha",
-      "code": "ac_hotel_porto_maravilha"
-    },
-    {
-      "id": 3,
-      "client_ref": "test4",
-      "name": "DM Denmark",
-      "code": "dm_denmark"
-    },
-    {
-      "id": 4,
-      "client_ref": "234234",
-      "name": "DM England",
-      "code": "dm_england"
-    },
-    {
-      "id": 5,
-      "client_ref": "234234",
-      "name": "DM Wales",
-      "code": "dm_wales"
     }
   ]
 }
