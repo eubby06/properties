@@ -5,6 +5,12 @@
       "client_ref": "RIOAC",
       "name": "AC Barra da Tijuca",
       "code": "ac_hotel_barra_da_tijuca"
+    },
+    {
+      "id": 2,
+      "client_ref": "RIOPM",
+      "name": "AC Porto Maravilha",
+      "code": "ac_hotel_porto_maravilha"
     }
   ]
 }
