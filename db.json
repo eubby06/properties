@@ -11,6 +11,18 @@
       "client_ref": "RIOPM",
       "name": "AC Porto Maravilha",
       "code": "ac_hotel_porto_maravilha"
+    },
+    {
+      "id": 3,
+      "client_ref": "234234",
+      "name": "DM England",
+      "code": "dm_england"
+    },
+    {
+      "id": 4,
+      "client_ref": "234235",
+      "name": "DM Wales",
+      "code": "dm_wales"
     }
   ]
 }
